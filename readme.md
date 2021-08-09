@@ -80,6 +80,6 @@ In `buildPlayers()`, loop through the created JSON objects and accumulate HTML t
 ## Expected Output
 
 ![Superwars](doc/superwars-basic1.png)
-![Superwars](doc/superwars-basic2.png)
+![Superwars](doc/superwars-basic2.png)  
 
 Happy Coding ProGrad ❤️
